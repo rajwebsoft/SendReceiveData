@@ -19,3 +19,13 @@ SendReceiveData.getUsedData("com.itfosters.localnews",onLocSuccess,onLocError);
 function onLocSuccess(res) { alert(res.received); }
 
 function onLocError(error) { alert('App Error: ' + error); }
+
+Results : 
+{
+  application_label: "LocalNews",
+  package_uid: 10290,
+  packagename: "com.itfosters.localnews",
+  received: "112.88",
+  send: "5.77",
+  total: "118.65"
+}
