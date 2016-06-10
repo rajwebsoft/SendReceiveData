@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "name": "com.itfosters.SendReceiveData",
+    "cordova_name": "Send Recevice Data",
+    "description": "Send Recevice Data",
+    "license": "Apache 2.0",
+    "repo": "",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device"
+    ],
+    "platforms": [
+        "android",
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
